@@ -1,4 +1,4 @@
-from PageList.settings import TOTAL, CLASS
+from settings import TOTAL, CLASS
 
 
 def judge_total():
